@@ -1,5 +1,8 @@
 # API for Evan and Dereks redistribution of pets
 
+[dog endpoint](https://petful-server-evan-derek.herokuapp.com/api/dog)
+[cat endpoint](https://petful-server-evan-derek.herokuapp.com/api/cat)
+
 ## Tech Stack
 
 1. Node
